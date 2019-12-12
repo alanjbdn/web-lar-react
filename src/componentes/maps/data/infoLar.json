@@ -1,0 +1,168 @@
+{
+  "features": [{
+    "type": "Feature",
+    "properties": {
+      "ID": 1,
+      "NAME": "Medianeira"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-54.0941557, -25.2976546]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "ID": 2,
+      "NAME": "Santa Rosa"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-54.241012, -25.349646]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "ID": 3,
+      "NAME": "São Miguel do Iguaçu"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-54.2455688, -25.3430192]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "ID": 4,
+      "NAME": "Santa Helena"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-54.3351176, -24.8569761]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "ID": 5,
+      "NAME": "Missal"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-54.2469799, -25.091973]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "ID": 6,
+      "NAME": "Diamante d'Oeste"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-54.1028221, -24.9462772]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "ID": 7,
+      "NAME": "Céu Azul"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-53.843058, -25.1488437]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "ID": 8,
+      "NAME": "Serranópolis"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-54.052273, -25.3848306]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "ID": 9,
+      "NAME": "Santa Terezinha de Itaipu"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-54.4044987, -25.4459037]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "ID": 10,
+      "NAME": "Ramilândia"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-54.0295852, -25.1195496]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "ID": 11,
+      "NAME": "Matelândia"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-53.9916237, -25.2414768]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "ID": 12,
+      "NAME": "Itaipulândia"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-54.3034283, -25.1388888]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "ID": 13,
+      "NAME": "São Roque"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-54.218598, -24.9916476]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "ID": 14,
+      "NAME": "Agrocafeeira"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-53.9419971, -25.1946402]
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "ID": 15,
+      "NAME": "Loja Park"
+    },
+    "geometry": {
+      "type": "Point",
+      "coordinates": [-54.1175221, -25.3010108]
+    }
+  }
+]
+}
